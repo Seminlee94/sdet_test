@@ -1,0 +1,9 @@
+{
+    "Demokratien_German_Spanish": {
+        "source_language": "German",
+        "translation_language": "Spanish",
+        "initial_text": "Demokratien",
+        "expected_result": "Democracia",
+        "swapped_translated_text": "Demokratie"
+    }
+}
